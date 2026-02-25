@@ -28,16 +28,15 @@ A web-based implementation is available via:
 
 ## Repository Structure
 
-analysis/
-│
-├── figure1/
-├── figure2/
-├── figure3/
-├── figure4/
-├── figure5/
-│
-└── tables/
-
+analysis/  
+│  
+├── figure1/  
+├── figure2/  
+├── figure3/  
+├── figure4/  
+├── figure5/  
+│  
+└── tables/  
 
 Each figure folder contains:
 
